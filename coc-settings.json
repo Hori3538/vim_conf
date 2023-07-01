@@ -1,0 +1,13 @@
+{
+    "suggest.keepCompleteopt": true,
+
+    "languageserver": {
+
+    "clangd": {
+        "command": "clangd",
+        "rootPatterns": ["compile_flags.txt", "compile_commands.json"],
+        "filetypes": ["cpp", "c++", "c", "cc", "objc", "objcpp"]
+    }
+    }
+}
+
