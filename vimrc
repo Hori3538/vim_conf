@@ -8,7 +8,7 @@ set t_Co=256
 "行番号を表示
 set number
 "tabを可視化
-set list listchars=tab:\▸\-
+" set list listchars=tab:\▸\-
 "tab文字を半角スペースにする
 set expandtab
 "行頭以外のtab文字の表示幅(スペースいくつ分か)
